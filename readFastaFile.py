@@ -54,7 +54,7 @@ def reverseFasta(desc2seq):
     return rev_desc2seq
 
 #test code to make sure functions work
-temp = read_fasta_file("text.txt")
-revTemp = reverseFasta(temp)
-print temp
-print revTemp
+#temp = read_fasta_file("text.txt")
+#revTemp = reverseFasta(temp)
+#print temp
+#print revTemp
